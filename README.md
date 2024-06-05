@@ -6,7 +6,8 @@
   - [Installing Active Directory within Azure VMs](https://github.com/shubhamkapoor13/Active-Directory-Installation)
   - [Configuring Active Directory with Azure VMs](https://github.com/shubhamkapoor13/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
-
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/shubhamkapoor13/osTicket-Prerequisites-and-Installation)
 
 <h2> 🤳 Connect with me:</h2>
 
