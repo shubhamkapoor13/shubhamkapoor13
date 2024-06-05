@@ -6,8 +6,6 @@
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
 
 
 <h2> 🤳 Connect with me:</h2>
