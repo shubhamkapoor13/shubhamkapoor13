@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installing Active Directory within Azure VMs](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
